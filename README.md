@@ -1,2 +1,2 @@
 # truechain
-Truechain wiki
+Truechain wiki by lucaskuang
